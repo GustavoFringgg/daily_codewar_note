@@ -5,3 +5,4 @@
   2. [How good are you really?(reduce)](https://github.com/GustavoFringgg/daily_codewar_note/issues/2)
   3. [Opposite number(if)](https://github.com/GustavoFringgg/daily_codewar_note/issues/3)
   4. [Convert a string to an array(split())](https://github.com/GustavoFringgg/daily_codewar_note/issues/4)
+  5. [Abbreviate a Two Word Name(split() / map() / join() / toUpperCase())](https://github.com/GustavoFringgg/daily_codewar_note/issues/5)
