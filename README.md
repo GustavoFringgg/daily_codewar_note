@@ -1,4 +1,5 @@
 ### 嘗試用issues來寫日記跟解codewar的地方
+[直接看yku分布](https://github.com/GustavoFringgg/daily_codewar_note/issues)
 
 #### Fundamentals
   1. [Count by X (for/push)](https://github.com/GustavoFringgg/daily_codewar_note/issues/1)
