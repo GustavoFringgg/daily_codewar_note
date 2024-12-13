@@ -11,3 +11,4 @@
   8. [Return Negative( Ternary Operator )](https://github.com/GustavoFringgg/daily_codewar_note/issues/8)
 
 #### Rank Up
+  1. [The Hashtag Generator( split() / map() / tirm() / join() / toUpperCase())](https://github.com/GustavoFringgg/daily_codewar_note/issues/9)
