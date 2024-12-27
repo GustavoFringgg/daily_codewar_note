@@ -12,6 +12,7 @@
   8. [Return Negative( Ternary Operator )](https://github.com/GustavoFringgg/daily_codewar_note/issues/8)
   9. [Even or Odd](https://github.com/GustavoFringgg/daily_codewar_note/issues/10)
   10. [Highest and Lowest (map() split() 展開符號)](https://github.com/GustavoFringgg/daily_codewar_note/issues/11)
+  11. [Growth of a Population (Math for )](https://github.com/GustavoFringgg/daily_codewar_note/issues/12)
 
 #### Rank Up
   1. [The Hashtag Generator( split() / map() / tirm() / join() / toUpperCase())](https://github.com/GustavoFringgg/daily_codewar_note/issues/9)
