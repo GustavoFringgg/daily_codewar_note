@@ -15,6 +15,7 @@
   11. [Growth of a Population (Math for )](https://github.com/GustavoFringgg/daily_codewar_note/issues/12)
   12. [Are You Playing Banjo? (toLowerCase ) ](https://github.com/GustavoFringgg/daily_codewar_note/issues/13)
   13. [Exes and Ohs (split()) ](https://github.com/GustavoFringgg/daily_codewar_note/issues/14)
+  14. [Is this a triangle?(sort)](https://github.com/GustavoFringgg/daily_codewar_note/issues/15)
 
 #### Rank Up
   1. [The Hashtag Generator( split() / map() / tirm() / join() / toUpperCase())](https://github.com/GustavoFringgg/daily_codewar_note/issues/9)
