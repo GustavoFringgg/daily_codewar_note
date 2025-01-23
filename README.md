@@ -18,6 +18,8 @@
   14. [Is this a triangle?("sort")](https://github.com/GustavoFringgg/daily_codewar_note/issues/15)
   15. [String ends with? ("endsWith")](https://github.com/GustavoFringgg/daily_codewar_note/issues/16)
   16. [Jaden Casing Strings ("split" "map" "charAt" "toUpperCase" "slice")](https://github.com/GustavoFringgg/daily_codewar_note/issues/17)
+  17. [DNA to RNA Conversion? ("正規表達式")](https://github.com/GustavoFringgg/daily_codewar_note/issues/18)
+      
 
 #### Rank Up
   1. [The Hashtag Generator( split() / map() / tirm() / join() / toUpperCase())](https://github.com/GustavoFringgg/daily_codewar_note/issues/9)
