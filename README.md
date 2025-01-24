@@ -13,12 +13,13 @@
   9. [Even or Odd](https://github.com/GustavoFringgg/daily_codewar_note/issues/10)
   10. [Highest and Lowest (map() split() 展開符號)](https://github.com/GustavoFringgg/daily_codewar_note/issues/11)
   11. [Growth of a Population ( "Math" "for" )](https://github.com/GustavoFringgg/daily_codewar_note/issues/12)
-  12. [Are You Playing Banjo? ("toLowerCase" ) ](https://github.com/GustavoFringgg/daily_codewar_note/issues/13)
+  12. [Are You Playing Banjo? ( "toLowerCase" ) ](https://github.com/GustavoFringgg/daily_codewar_note/issues/13)
   13. [Exes and Ohs ("split()") ](https://github.com/GustavoFringgg/daily_codewar_note/issues/14)
   14. [Is this a triangle?("sort")](https://github.com/GustavoFringgg/daily_codewar_note/issues/15)
   15. [String ends with? ("endsWith")](https://github.com/GustavoFringgg/daily_codewar_note/issues/16)
   16. [Jaden Casing Strings ("split" "map" "charAt" "toUpperCase" "slice")](https://github.com/GustavoFringgg/daily_codewar_note/issues/17)
   17. [DNA to RNA Conversion? ("正規表達式")](https://github.com/GustavoFringgg/daily_codewar_note/issues/18)
+  18. [Find the next perfect square!? ( Math.sqr Math.pow)](https://github.com/GustavoFringgg/daily_codewar_note/issues/19)
       
 
 #### Rank Up
